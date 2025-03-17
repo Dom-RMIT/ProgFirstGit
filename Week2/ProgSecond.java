@@ -1,3 +1,4 @@
+package Week2;
 public class ProgSecond {
 
     public static void main(String[] args) {
